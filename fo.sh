@@ -250,19 +250,19 @@ echo "Items moved!"
 echo "Complete!"
 echo ""
 #Undo_Option
-read -p "Do you like the organization, If not press '1' to undo, else press any key... $c" mdkkr
+#read -p "Do you like the organization, If not press '1' to undo, else press any key... $c" mdkkr
 #if user wants to undo
-if [ $mdkkr -eq 1 ]
-then
-  kl=$PWD
-  for x in "${backUndo[@]}"
-  do
-    mv $x/* $kl
-    rm -r $x
-  done
-fi
-echo "Its OK!, Not everyone has a good taste!"
-echo "Complete!"
-echo "Ignore errors!- Those are just to scare you!..."
+#if [ $mdkkr -eq 1 ]
+#then
+#  kl=$PWD
+#  for x in "${backUndo[@]}"
+#  do
+#    mv $x/* $kl
+#    rm -r $x
+#  done
+#fi
+#echo "Its OK!, Not everyone has a good taste!"
+#echo "Complete!"
+#echo "Ignore errors!- Those are just to scare you!..."
 echo "______________________________________________"
 #---------------------------END------------------------------------------------
