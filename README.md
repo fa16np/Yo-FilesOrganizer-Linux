@@ -1,9 +1,15 @@
-# Yo--File-Organizer-Linux
-File Organizer for linux with two modes and undo feature, similar to what i made for windows and mac.
+# Yo!--File-Organizer-Linux
+*File Organizer for linux similar to what i made for windows and mac.
+    (https://github.com/fa16np/Yo-FilesOrganizer-Windows-Mac)
+*Has two modes FILE TYPE, FILE FORMAT
+*Can undo everything if you didnt liked the organization or you ran it on wrong directory
 
+## How to use it
+*Select the mode of file organization you wan
+*It performs file organization on current directory
+*Gives option of undo
 
-![1](https://user-images.githubusercontent.com/44476743/63114739-91c84700-bf63-11e9-9c5f-41dba6dbcd9f.gif)
 
 
 Credits:
-initial idea: Paramvir Singh
+initial file organizer app thought: Paramvir Singh
