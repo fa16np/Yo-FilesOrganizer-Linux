@@ -5,9 +5,11 @@
 
 
 ## How to use it
-* Select the mode of file organization you wan
+* Select the mode of file organization you want
 * It performs file organization on current directory
 
+## ScreenShot
+![1](https://user-images.githubusercontent.com/44476743/88864869-38891000-d1d4-11ea-8e73-8c480149f46f.png)
 
 
 Credits:
